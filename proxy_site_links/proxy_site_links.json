@@ -5842,7 +5842,7 @@
             ["txt", "https://proxyscrape.com/proxies/Socks4_2000ms_Timeout_Proxies.txt"],
             ["txt", "https://github.com/vaitan/proxy-list"],
             ["txt", "https://proxyscrape.com/proxies/Socks4_10000ms_Timeout_Proxies.txt"],
-            ["txt", "http://atomintersoft.com/proxy_list_port_81""],
+            ["txt", "http://atomintersoft.com/proxy_list_port_81"],
             ["txt", "https://www.proxydocker.com/en/proxylist/port/80"],
             ["txt", "https://premproxy.com/socks-list/ip-port/5.htm"],
             ["txt", "https://www.my-proxy.com/free-proxy-list-9.html"],
